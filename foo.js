@@ -3,6 +3,6 @@ function bar() {
 }
 
 function foobar() {
-	return 6;
+	return 46;
 }
 
