@@ -1,5 +1,5 @@
 function bar() {
-	return x + y + 44;
+	return x + 44;
 }
 
 function foobar() {
